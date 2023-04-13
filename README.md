@@ -1,3 +1,4 @@
+[![GitHub Streak](https://streak-stats.demolab.com/?user=a-dilmen)](https://git.io/streak-stats)
 ### Hi there 👋
 
 <!--
