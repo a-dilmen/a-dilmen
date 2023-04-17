@@ -1,4 +1,4 @@
-[![GitHub Streak](https://streak-stats.demolab.com/?user=a-dilmen)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=a-dilmen&theme=dark)](https://git.io/streak-stats)
 ### Hi there 👋
 
 <!--
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ## Hi, I am Abdulkadir Dilmen! 
 </br>
 
- <div style="background-color: gray">
+ <div>
   <a href="https://github.com/a-dilmen">
    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-dilmen&layout=compact&langs_count=16&theme=dracula"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=a-dilmen&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
