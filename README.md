@@ -1,5 +1,10 @@
-[![GitHub Streak](https://streak-stats.demolab.com/?user=a-dilmen&theme=dark)](https://git.io/streak-stats)
 ### Hi there 👋
+## Hi, I am Abdulkadir Dilmen! 
+
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=a-dilmen&theme=dark)](https://git.io/streak-stats)
+
+
 
 <!--
 **a-dilmen/a-dilmen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +21,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi, I am Abdulkadir Dilmen! 
 </br>
 
  <div>
