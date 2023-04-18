@@ -1,5 +1,5 @@
 ### Hi there 👋
-## Hi, I am Abdulkadir Dilmen! 
+## I am Abdulkadir Dilmen! 
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=a-dilmen&theme=dark)](https://git.io/streak-stats)
