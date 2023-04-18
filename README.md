@@ -1,5 +1,7 @@
-### Hi there 👋
-## I am Abdulkadir Dilmen! 
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+👋)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+Abdulkadir+Dilmen! )](https://git.io/typing-svg)
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=a-dilmen&theme=dark)](https://git.io/streak-stats)
