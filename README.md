@@ -60,7 +60,7 @@ Here are some ideas to get you started:
  <img height="40" align="center" alt="a-dilmen-rabbitmq" height="30" width="40" src="https://www.svgrepo.com/show/354250/rabbitmq-icon.svg">
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="40" align="center" alt="a-dilmen-elasticsearch" height="30" width="40" src="https://www.svgrepo.com/show/303574/elasticsearch-logo.svg">
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="40" align="center" alt="a-dilmen-redis" height="30" width="40" src="https://www.svgrepo.com/show/354272/redis.svg">
  </br>
 </br>
